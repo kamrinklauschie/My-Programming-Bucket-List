@@ -1,4 +1,4 @@
-My Programming Bucket List
+# My Programming Bucket List
 A list of all the things I'd love to accomplish in programming! ⭐⭐⭐
 
 This repository is inspired by one of my former Dev Bootcamp students and current Software Engineer at Uber, Ginny Fahs. You can find her blog here: https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155
